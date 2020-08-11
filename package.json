@@ -28,7 +28,7 @@
     "commitmsg": "node ./scripts/git/commit-msg.js"
   },
   "dependencies": {
-    "@angular-devkit/schematics": "^0.5.5",
+    "@angular-devkit/schematics": "^0.8.9",
     "@schematics/angular": "^0.5.4",
     "core-js": "^2.4.1",
     "reflect-metadata": "^0.1.3",
